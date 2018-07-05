@@ -443,7 +443,7 @@ body.mobile-nav-active #mobile-nav-toggle { color: #fff;}
 @media (max-width: 1199.98px) { .banner-content h1 { font-size: 45px;}}
 /* banner image for mobile */
 @media (max-width: 480px) { .banner-area { height: 480px; background: url(../img/header-bg-mobile.jpg) center; background-size: cover;} /* change this image */
-.banner-content { text-align: center;}
+.banner-content { text-align: center; margin-top: 90px}
 }
 @media (max-width: 414px) {
   .banner-content h1 { font-size: 32px;}
